@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background: #EE5E5B; 
+    background: linear-gradient(to right, #33ccff , #1a1aff);
+}
+
+.newh3{
+	font-family: cursive;
+	font-size: 30px;
+	color: #ED2000;
+	text-decoration: underline;
+}
+#myComment{
+	list-style-type: none;
+	text-align:left;
+	font-size:20px;
+}
