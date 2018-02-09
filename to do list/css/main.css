@@ -1,0 +1,17 @@
+body {
+	text-align:center;
+	color: #503050;
+}
+
+h1 {
+	margin-bottom:50px;
+}
+
+input {
+	margin-bottom:40px;
+}
+
+li {
+	text-align:left;
+	font-size:20px;
+}
